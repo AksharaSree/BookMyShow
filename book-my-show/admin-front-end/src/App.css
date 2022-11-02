@@ -1,0 +1,48 @@
+*{
+  margin:0;
+  padding: 0;  
+  list-style-type: none;
+  text-decoration: none;
+}
+
+dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul{
+  padding-left:0;
+}
+
+a{
+  text-decoration: none;
+}
+
+label{
+  color:rgb(241, 237, 237);
+}
+
+.btn-default{
+  background-color: #e0454c;
+  color: #fff;
+  margin: 0.25em;
+}
+
+.btn-cancel{
+  background-color: #323436;
+  color: #fff;
+  margin: 0.25em;
+
+}
+
+.validation-message{
+    color: red;
+    padding: 0.25em;
+    font-size: 13px;
+}
+
+.css-d3wcwz-MuiTypography-root {
+  font-weight: bold;
+  font-size: 1.075em;
+
+}

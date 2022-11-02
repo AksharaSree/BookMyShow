@@ -1,0 +1,24 @@
+.filter-tag{
+    padding: 0.25em 0.75em;
+    border: 1px solid #ddd;
+    color:#e0454c !important;
+}
+
+.filter-tag--selected{
+    padding: 0.25em 0.75em;
+    background-color: #e0454c;
+    color: #fff !important;
+}
+
+.tag-align label{
+    color:black;
+    font-size: 14px;
+    margin: 0.2em;
+}
+
+.tag-align{
+    display: flex;
+    /* align-items: end; */
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+}

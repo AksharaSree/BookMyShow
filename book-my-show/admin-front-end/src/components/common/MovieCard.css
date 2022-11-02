@@ -1,0 +1,26 @@
+.card-actions{
+    background-color: black;
+    color:#fff;;
+}
+.movie-title{
+    font-weight: bold !important;
+    font-size: 1.075em !important;
+    color:#000;
+    font-family: sans-serif !important;
+}
+
+.movie-info{
+    padding: 1em 0em;
+}
+
+.movie-info p{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.css-d3wcwz-MuiTypography-root {
+    font-weight: bold;
+    font-size: 1.075em;
+
+}

@@ -1,0 +1,14 @@
+.header{
+    border-bottom:1px solid #ddd;
+    color:rgb(241, 237, 237);
+    padding-bottom: 0.2em;
+}
+
+.master-content label{
+    color: #fff;
+    font-weight: 600;
+}
+
+.master-content .row{
+    margin-bottom: 1.15em;
+}
